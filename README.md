@@ -53,3 +53,5 @@ A collection of Thompson Rivers University's Datasets and how to use them.
       - gets details of schedule
       - returns JSON
 - - returns JSON of objects for each meeting time of each class. 
+
+13. ​
